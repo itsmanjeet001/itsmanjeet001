@@ -11,7 +11,7 @@ I’m currently working on VAPT learning and actively playing CTF challenges to 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Scanner-green?style=for-the-badge)
 ![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-4B0082?style=for-the-badge&logo=searchengineland&logoColor=white)
