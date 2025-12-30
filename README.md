@@ -35,6 +35,13 @@ I’m currently working on VAPT learning and actively playing CTF challenges to 
 # 🌐 Socials
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/itsmanjeet001)
 
+# 📚 Publications
+[![Research Paper](https://img.shields.io/badge/Research-Published-blue?style=for-the-badge&logo=google-scholar)](https://doi.org/10.xxxx/xxxxxx)
+
+**Conceptual Security Framework for Vulnerability Exploitation and Privacy Threats in IoT-Based Smart Environments**  
+*NGCCOM 2024*
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=itsmanjeet001&icon=0&color=0)](https://visitcount.itsvg.in)
 
