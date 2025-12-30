@@ -1,8 +1,5 @@
 # 💫About Me:
-I am a cybersecurity enthusiast focused on **VAPT**, actively solving **CTF challenges** to build strong practical skills.  
-I am open to entry-level cybersecurity roles and security-focused collaborations.  
-My interests include **vulnerability scanning, exploitation techniques, SOC fundamentals, and networking**.  
-I enjoy finding security flaws and thinking like an attacker to better defend systems.
+I am a cybersecurity enthusiast focused on **VAPT**, actively solving **CTF challenges** to build strong practical skills. I am open to entry-level cybersecurity roles and security-focused collaborations. My interests include **vulnerability scanning, exploitation techniques, SOC fundamentals, and networking**. I enjoy finding security flaws and thinking like an attacker to better defend systems.
 
 
 # 💻 Tech Stack:
