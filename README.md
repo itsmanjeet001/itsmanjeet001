@@ -1,5 +1,8 @@
 # 💫About Me:
-I’m currently working on VAPT learning and actively playing CTF challenges to improve my practical skills.<br>I’m looking to collaborate on entry-level cybersecurity opportunities and security-focused projects.<br>I’m looking for help with improving my practical exposure and understanding of real-world cybersecurity workflows.<br>I’m currently learning VAPT exploitation techniques and hands-on security testing.<br>Ask me about networking basics, SOC fundamentals, and vulnerability scanning.<br>I enjoy finding security flaws and understanding how attackers think to defend better.<br>
+I am a cybersecurity enthusiast focused on **VAPT**, actively solving **CTF challenges** to build strong practical skills.  
+I am open to entry-level cybersecurity roles and security-focused collaborations.  
+My interests include **vulnerability scanning, exploitation techniques, SOC fundamentals, and networking**.  
+I enjoy finding security flaws and thinking like an attacker to better defend systems.
 
 
 # 💻 Tech Stack:
