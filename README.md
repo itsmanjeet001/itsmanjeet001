@@ -36,8 +36,7 @@ I’m currently working on VAPT learning and actively playing CTF challenges to 
 [![](https://visitcount.itsvg.in/api?id=itsmanjeet001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 🌐 Socials
-
-[![TryHackMe](https://tryhackme.com/badge/image/itsmanjeet001)](https://tryhackme.com/p/itsmanjeet001)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/itsmanjeet001)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
