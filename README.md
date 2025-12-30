@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫About Me:
 I’m currently working on VAPT learning and actively playing CTF challenges to improve my practical skills.<br>I’m looking to collaborate on entry-level cybersecurity opportunities and security-focused projects.<br>I’m looking for help with improving my practical exposure and understanding of real-world cybersecurity workflows.<br>I’m currently learning VAPT exploitation techniques and hands-on security testing.<br>Ask me about networking basics, SOC fundamentals, and vulnerability scanning.<br>I enjoy finding security flaws and understanding how attackers think to defend better.<br>
 
 
-# 💻 Tech Stack:# 💻 Tech Stack:
+# 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
