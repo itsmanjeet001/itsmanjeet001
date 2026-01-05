@@ -1,5 +1,5 @@
 # 💫About Me:
-SOC Analyst aspirant passionate about security monitoring, incident detection, and threat triage. Actively learning SIEM tools like Splunk/ELK for log analysis, alert investigation, and threat hunting while solving CTFs to hone defensive skills. Exploring SOC fundamentals, VAPT basics, and networking to excel in entry-level cybersecurity roles and collaborations.
+SOC Analyst aspirant passionate about security monitoring, incident detection, and threat triage. Actively learning SIEM tools like Splunk for log analysis, alert investigation, and threat hunting while solving CTFs to hone defensive skills. Exploring SOC fundamentals, VAPT basics, and networking to excel in entry-level cybersecurity roles and collaborations.
 
 
 
