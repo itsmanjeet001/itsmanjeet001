@@ -1,5 +1,6 @@
 # 💫About Me:
-I am a cybersecurity enthusiast focused on **VAPT**, actively solving **CTF challenges** to build strong practical skills. I am open to entry-level cybersecurity roles and security-focused collaborations. My interests include **vulnerability scanning, exploitation techniques, SOC fundamentals, and networking**. I enjoy finding security flaws and thinking like an attacker to better defend systems.
+SOC Analyst aspirant passionate about security monitoring, incident detection, and threat triage. Actively learning SIEM tools like Splunk/ELK for log analysis, alert investigation, and threat hunting while solving CTFs to hone defensive skills. Exploring SOC fundamentals, VAPT basics, and networking to excel in entry-level cybersecurity roles and collaborations.
+
 
 
 # 💻 Tech Stack:
